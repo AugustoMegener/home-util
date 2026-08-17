@@ -97,11 +97,11 @@
         "quickshell": "quickshell_3"
       },
       "locked": {
-        "lastModified": 1786931607,
-        "narHash": "sha256-6xX4ViVfP+Q3T9GsYJHugYj5RWS+vXkhNU+q4e3aDIY=",
+        "lastModified": 1786932289,
+        "narHash": "sha256-uVhHMBgPUVNwME6GJggrETmLbfBg7QQMZRqzVAejnXU=",
         "owner": "AugustoMegener",
         "repo": "comra-de",
-        "rev": "bd91c5cfbfd42be011051d2996878928b4d1abb9",
+        "rev": "5c7ada52dab265651e1fb4a74a98730028ecd4bc",
         "type": "github"
       },
       "original": {
