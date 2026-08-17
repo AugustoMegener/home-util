@@ -57,11 +57,11 @@
         "xkb-monitor": "xkb-monitor"
       },
       "locked": {
-        "lastModified": 1786504412,
-        "narHash": "sha256-WM+AuENUxnfZP6++8GMFhw/+Exqhon+hR2rakRB6VUk=",
+        "lastModified": 1786930759,
+        "narHash": "sha256-adhtKFs8/tGNdcz7ol4P8QWIdcolgxaXh29VQa7awV4=",
         "owner": "AugustoMegener",
         "repo": "bolcshell",
-        "rev": "f2f2364766d2bb222db1890f59a32ee01360ee4e",
+        "rev": "1fa18124a047a23332581def35539cca07734722",
         "type": "github"
       },
       "original": {
@@ -97,11 +97,11 @@
         "quickshell": "quickshell_3"
       },
       "locked": {
-        "lastModified": 1786827552,
-        "narHash": "sha256-HpzcmkJpf2/uCKPgrw/bVmbT2ZiTriPH5yrawr1oHEE=",
+        "lastModified": 1786931607,
+        "narHash": "sha256-6xX4ViVfP+Q3T9GsYJHugYj5RWS+vXkhNU+q4e3aDIY=",
         "owner": "AugustoMegener",
         "repo": "comra-de",
-        "rev": "385a349bb926126507c83dc8c9c8d78cdfb2aa9b",
+        "rev": "bd91c5cfbfd42be011051d2996878928b4d1abb9",
         "type": "github"
       },
       "original": {
