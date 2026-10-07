@@ -1,5 +1,5 @@
 { pkgs, ... }:
 {
-# programs.obsidian.enable = true;
-  home.packages = [ pkgs.obsidian ];
+ programs.obsidian.enable = true;
+# home.packages = [ pkgs.obsidian ];
 }
