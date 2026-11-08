@@ -73,11 +73,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1794096942,
-        "narHash": "sha256-D+XjeOOEt/4LZPCQhNzqEAc+bK13DEXtCe3q4/RP4xU=",
+        "lastModified": 1794100097,
+        "narHash": "sha256-QRIIJRZe35dwHw/HUy9orto5TfvpQTJVjlanxpBJ+l8=",
         "owner": "AugustoMegener",
         "repo": "comra-de",
-        "rev": "706d7a4ddf3bcf0b99d04f79989234b177875193",
+        "rev": "975f2e21226141bf5df19a9d468c401fa6fd5fef",
         "type": "github"
       },
       "original": {
