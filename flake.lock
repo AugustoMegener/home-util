@@ -34,11 +34,11 @@
         "xkb-monitor": "xkb-monitor"
       },
       "locked": {
-        "lastModified": 1794344856,
-        "narHash": "sha256-nS6/GKkq3N+DbfodAqzrLiHngL/dtLbNSRsxYc5qTAE=",
+        "lastModified": 1794346281,
+        "narHash": "sha256-3KaC2k+RgRUMznNyGKNHkbwe62KKvApenQq981bi24U=",
         "owner": "AugustoMegener",
         "repo": "bolcshell",
-        "rev": "7673142afa65455c2eaae5b941d279e14e42dbf3",
+        "rev": "6b0d4944e8ef0a1f4487ebd8dae1c1c3d4d066a8",
         "type": "github"
       },
       "original": {
@@ -73,11 +73,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1794345746,
-        "narHash": "sha256-hY9//DkVNidJXQtigXT5soDwB86m3SLpT3Fd2TzoQ9k=",
+        "lastModified": 1794514394,
+        "narHash": "sha256-DAwcFwnqlu02Bb7lOUSz3GNo4od6tOUfmluFtScrmOM=",
         "owner": "AugustoMegener",
         "repo": "comra-de",
-        "rev": "12a2eb5feedf828ee8d8035a6fe6eb2cab47fc24",
+        "rev": "b5249b582b4f215142502c6a88bb24a7f698aa7f",
         "type": "github"
       },
       "original": {
@@ -174,11 +174,11 @@
     },
     "nixpkgs_3": {
       "locked": {
-        "lastModified": 1794042290,
-        "narHash": "sha256-ziZn2PvCJE5JEEpqTdxXwJpPB+L3YqoCpTAMCzyaP3U=",
+        "lastModified": 1794386569,
+        "narHash": "sha256-x9sADJvoVG0L6RejZB+/BB4YiGZFBZrfTlhF4uBq1tQ=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f4a03c008967841f2a0b3cb7c436fc6fc31671f6",
+        "rev": "d4f25a3e562008648d45bcf2d70bcc7422cad84e",
         "type": "github"
       },
       "original": {
